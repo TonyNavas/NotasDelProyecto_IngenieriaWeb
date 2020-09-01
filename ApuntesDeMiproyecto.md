@@ -48,18 +48,29 @@
 
 Algunos de los comandos de git son:
 
-#### Con este comando podemos inicializar nuestro nuevo proyecto.
+#### **Con este comando podemos inicializar nuestro nuevo proyecto.**
 ```
 git init
 ```
-#### Con este comando podemos ver el estado de los cambios que hemos hecho a nuestro proyecto
+#### **Con este comando podemos ver el estado de los cambios que hemos hecho a nuestro proyecto**
 ```
 git status
 ```
-#### Con este comando podemos guardar los datos 
+#### **Con este comando podemos añadir los cambios hechos**
 ```
 git add .
 ```
+#### **Con este comando cuando tenemos el proyecto o una parte del proyecto listo guardar los cambios**
+```
+git commit -m "Texto"
+```
+#### **Para subir el proyecto con los cambios hechos** 
+Dependiendo de la rama donde se trabaje.
+```
+git push origin master
+```
+
+
 
 
 
