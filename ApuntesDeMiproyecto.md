@@ -60,16 +60,23 @@ git status
 ```
 git add .
 ```
+![imagen](Imagenes\asdfg3.png)
 #### **Con este comando cuando tenemos el proyecto o una parte del proyecto listo guardar los cambios**
 ```
 git commit -m "Texto"
 ```
+![imagen](Imagenes\asdfg2.png)
+#### Con este comando podemos saber a donde se mandan los cambios 
+```
+git remote
+```
+![imagen](Imagenes\asdfg1.png)
 #### **Para subir el proyecto con los cambios hechos** 
 Dependiendo de la rama donde se trabaje.
 ```
 git push origin master
 ```
-
+![imagen](Imagenes\qwerty.png)
 
 
 
