@@ -16,6 +16,13 @@
 #### **- HTML 2.0:**
 * Esta version en noviembre de 1995 era el estandar de HTML cuando se produjo la exlosion de internet, cualquier navegador era capaz de interpretarlo.
 #### **-HTML 3.0:**
+* Debido a las limitaciones de HTML 2.0, los navegadores comenzaron a crear nuevas etiquetas. La union de IBM, Microsoft, Netscape, etc. Les llevo a crear w3c
+
+#### **HTML 4.0**
+*(Julio 1997) incluye macros (frames), las ojas de estilos y los scripts
+
+#### **HTML 5**
+* Es la actualizacion de HTML 4.0, creada por la carencia de V4.0 en la creacion de aplicaciones modernas con frameworks
 
 #### **La estructura de HTML es:**
 ```
@@ -60,23 +67,21 @@ git status
 ```
 git add .
 ```
-![imagen](Imagenes\asdfg3.png)
 #### **Con este comando cuando tenemos el proyecto o una parte del proyecto listo guardar los cambios**
 ```
 git commit -m "Texto"
 ```
-![imagen](Imagenes\asdfg2.png)
 #### Con este comando podemos saber a donde se mandan los cambios 
 ```
 git remote
 ```
-![imagen](Imagenes\asdfg1.png)
 #### **Para subir el proyecto con los cambios hechos** 
 Dependiendo de la rama donde se trabaje.
 ```
 git push origin master
 ```
-![imagen](Imagenes\qwerty.png)
+![imagen](https://edteam-media.s3.amazonaws.com/community/original/fc43b465-dbfb-465e-9705-b38d230452fc.jpg)
+
 
 
 
