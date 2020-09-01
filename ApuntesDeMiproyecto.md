@@ -1,4 +1,4 @@
-## **Apuntes para mi proyecto de ingenieria web 1:**
+# **Apuntes para mi proyecto de ingenieria web 1:**
 
 #### En la clase anterios vimos que es HTML, que es y para que sirve y cuales son sus bases:
 
@@ -7,6 +7,7 @@
 #### **¿Que es HTML?**
 * HTML es un leguaje de marcado que se utiliza para el desarrollo de paginas de internet Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros.
 
+![imagen](https://www.deustoformacion.com/sites/deustoformacion/files/etiquetas-html-que-debes-conocer.jpg)
 
 #### **¿Para que sirve?**
 *  Define el contenido de un sitio web el cual sigue un estanadar creado para dar estructura al sitio 
@@ -38,6 +39,7 @@
 </html>
 ```
 #### **Los leguajes estaticos con los que se diseña una pagina web son:**
+![imagen](https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png)
 * HTML
 * CSS
 * JavaScript
@@ -80,7 +82,7 @@ Dependiendo de la rama donde se trabaje.
 ```
 git push origin master
 ```
-![imagen](https://edteam-media.s3.amazonaws.com/community/original/fc43b465-dbfb-465e-9705-b38d230452fc.jpg)
+![imagen](https://informaticaynadamas.com/wp-content/uploads/2020/02/git-github.jpg)
 
 
 
